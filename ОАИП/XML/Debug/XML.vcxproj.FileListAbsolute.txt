@@ -1,0 +1,3 @@
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\XML\Debug\XML.vcxproj.CopyComplete
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\XML\Debug\XML.exe
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\XML\Debug\tinyxml2.dll

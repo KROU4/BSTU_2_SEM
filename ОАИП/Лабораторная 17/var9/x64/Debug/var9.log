@@ -1,0 +1,7 @@
+﻿  FileName.cpp
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 17\var9\FileName.cpp(8,23): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 17\var9\FileName.cpp(17,23): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 17\var9\FileName.cpp(40,5): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 17\var9\FileName.cpp(51,23): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 17\var9\FileName.cpp(52,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  var9.vcxproj -> C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 17\var9\x64\Debug\var9.exe

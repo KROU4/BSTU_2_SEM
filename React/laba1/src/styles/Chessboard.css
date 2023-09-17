@@ -1,0 +1,14 @@
+.boba td {
+    height: 25px;
+    width: 25px;
+    text-align: center; 
+    border: 1px solid black;
+  }
+  
+  .boba td:first-child, .boba td:last-child {
+    border: none;
+  }
+  
+.boba {
+    margin-left: 505px;
+}

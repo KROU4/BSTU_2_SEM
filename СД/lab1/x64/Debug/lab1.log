@@ -1,0 +1,7 @@
+﻿  FileName.cpp
+C:\Users\KROU4\YandexDisk\Коды ПК\СД\lab1\FileName.cpp(274,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\KROU4\YandexDisk\Коды ПК\СД\lab1\FileName.cpp(293,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\KROU4\YandexDisk\Коды ПК\СД\lab1\FileName.cpp(313,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\KROU4\YandexDisk\Коды ПК\СД\lab1\FileName.cpp(336,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\KROU4\YandexDisk\Коды ПК\СД\lab1\FileName.cpp(384,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab1.vcxproj -> C:\Users\KROU4\YandexDisk\Коды ПК\СД\lab1\x64\Debug\lab1.exe

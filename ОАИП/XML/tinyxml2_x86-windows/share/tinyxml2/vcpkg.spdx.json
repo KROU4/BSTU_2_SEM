@@ -1,0 +1,159 @@
+{
+  "$schema": "https://raw.githubusercontent.com/spdx/spdx-spec/v2.2.1/schemas/spdx-schema.json",
+  "spdxVersion": "SPDX-2.2",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "documentNamespace": "https://spdx.org/spdxdocs/tinyxml2-x86-windows-9.0.0#2-0f3fee84-1911-472f-9a8c-6a06d09f714e",
+  "name": "tinyxml2:x86-windows@9.0.0#2 cde4289f85c2b0f17008a9791f9a7e1c59d94e61c65031761660777c3ee5cd09",
+  "creationInfo": {
+    "creators": [
+      "Tool: vcpkg-bedcba5172f5e4b91caac660ab7afe92c27a9895"
+    ],
+    "created": "2023-05-06T23:46:58Z"
+  },
+  "relationships": [
+    {
+      "spdxElementId": "SPDXRef-port",
+      "relationshipType": "GENERATES",
+      "relatedSpdxElement": "SPDXRef-binary"
+    },
+    {
+      "spdxElementId": "SPDXRef-port",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-file-0"
+    },
+    {
+      "spdxElementId": "SPDXRef-port",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-file-1"
+    },
+    {
+      "spdxElementId": "SPDXRef-port",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-file-2"
+    },
+    {
+      "spdxElementId": "SPDXRef-port",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-file-3"
+    },
+    {
+      "spdxElementId": "SPDXRef-binary",
+      "relationshipType": "GENERATED_FROM",
+      "relatedSpdxElement": "SPDXRef-port"
+    },
+    {
+      "spdxElementId": "SPDXRef-file-0",
+      "relationshipType": "CONTAINED_BY",
+      "relatedSpdxElement": "SPDXRef-port"
+    },
+    {
+      "spdxElementId": "SPDXRef-file-1",
+      "relationshipType": "CONTAINED_BY",
+      "relatedSpdxElement": "SPDXRef-port"
+    },
+    {
+      "spdxElementId": "SPDXRef-file-2",
+      "relationshipType": "CONTAINED_BY",
+      "relatedSpdxElement": "SPDXRef-port"
+    },
+    {
+      "spdxElementId": "SPDXRef-file-3",
+      "relationshipType": "CONTAINED_BY",
+      "relatedSpdxElement": "SPDXRef-port"
+    },
+    {
+      "spdxElementId": "SPDXRef-file-3",
+      "relationshipType": "DEPENDENCY_MANIFEST_OF",
+      "relatedSpdxElement": "SPDXRef-port"
+    }
+  ],
+  "packages": [
+    {
+      "name": "tinyxml2",
+      "SPDXID": "SPDXRef-port",
+      "versionInfo": "9.0.0#2",
+      "downloadLocation": "git+https://github.com/Microsoft/vcpkg#ports/tinyxml2",
+      "homepage": "https://github.com/leethomason/tinyxml2",
+      "licenseConcluded": "Zlib",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "description": "A simple, small, efficient, C++ XML parser",
+      "comment": "This is the port (recipe) consumed by vcpkg."
+    },
+    {
+      "name": "tinyxml2:x86-windows",
+      "SPDXID": "SPDXRef-binary",
+      "versionInfo": "cde4289f85c2b0f17008a9791f9a7e1c59d94e61c65031761660777c3ee5cd09",
+      "downloadLocation": "NONE",
+      "licenseConcluded": "Zlib",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "comment": "This is a binary package built by vcpkg."
+    },
+    {
+      "SPDXID": "SPDXRef-resource-1",
+      "name": "leethomason/tinyxml2",
+      "downloadLocation": "git+https://github.com/leethomason/tinyxml2@9.0.0",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "checksums": [
+        {
+          "algorithm": "SHA512",
+          "checksumValue": "9c5ce8131984690df302ca3e32314573b137180ed522c92fd631692979c942372a28f697fdb3d5e56bcf2d3dc596262b724d088153f3e1d721c9536f2a883367"
+        }
+      ]
+    }
+  ],
+  "files": [
+    {
+      "fileName": "./0001-fix-do-not-force-export-the-symbols-when-building-st.patch",
+      "SPDXID": "SPDXRef-file-0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "08c2b7d4ba4ee1dd45f26847c022a4db1496edb6a3bdabc519ac4a330573aa8e"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./0002-fix-check-for-TINYXML2_EXPORT-on-non-windows.patch",
+      "SPDXID": "SPDXRef-file-1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "aae8bfad827d265c3cfffebd583da39e299068b68b8795233bf2b5ed9d7b2273"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./portfile.cmake",
+      "SPDXID": "SPDXRef-file-2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "26196ae57bc7a7cde1ed11dc7e98d2674f52943617b7e5be9db0d1b08f497702"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./vcpkg.json",
+      "SPDXID": "SPDXRef-file-3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4ae491743db18679401e1b260dbc97e809c84d5a07b3908745fc0ecd070e7daa"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "copyrightText": "NOASSERTION"
+    }
+  ]
+}

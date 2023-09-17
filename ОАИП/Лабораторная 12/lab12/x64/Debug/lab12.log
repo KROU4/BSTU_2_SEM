@@ -1,0 +1,7 @@
+﻿  Heap.cpp
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 12\lab12\Heap.cpp(112,40): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  main.cpp
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 12\lab12\main.cpp(63,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода...
+  LINK : не найден или не выполнена сборка C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 12\lab12\x64\Debug\lab12.exe при последней инкрементной компоновке; выполняется полная компоновка
+  lab12.vcxproj -> C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 12\lab12\x64\Debug\lab12.exe

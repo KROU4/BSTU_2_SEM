@@ -1,0 +1,32 @@
+@font-face {
+    font-family: clock;
+    src: url(MergePro.otf);
+}
+
+html {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+#minsk {
+color: #00AF66;
+}
+
+#ny {
+color: #041E42;
+}
+
+h1:not(#ny):not(#minsk) {
+    font-size: 1.4em;
+}
+
+#num2 {
+    margin-top: 100px;
+}
+
+#clock {
+    font-family: "clock";
+    font-size: 2.5em;
+}

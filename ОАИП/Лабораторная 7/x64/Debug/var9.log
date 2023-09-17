@@ -1,0 +1,5 @@
+﻿  f1.cpp
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лаба 7\var9\stdafx.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лаба 7\var9\f1.cpp(121,35): warning C4101: n: неиспользованная локальная переменная
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лаба 7\var9\f1.cpp(266,25): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  var9.vcxproj -> C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лаба 7\var9\x64\Debug\var9.exe

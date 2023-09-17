@@ -1,0 +1,6 @@
+﻿  FileName.cpp
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 5\2_dop\FileName.cpp(137,22): error C2556: int IsEmpty(list *): перегруженная функция отличается от "bool IsEmpty(list *)" только возвращаемым типом
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 5\2_dop\FileName.cpp(13,6): message : см. объявление "IsEmpty"
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 5\2_dop\FileName.cpp(137,5): error C2371: IsEmpty: переопределение; различные базовые типы
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 5\2_dop\FileName.cpp(13,6): message : см. объявление "IsEmpty"
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 5\2_dop\FileName.cpp(212,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных

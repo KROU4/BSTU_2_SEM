@@ -1,0 +1,12 @@
+﻿  Main.cpp
+C:\Users\KROU4\YandexDisk\Коды ПК\СД\lab2-9\Main.cpp(33,3): warning C4984: "if constexpr" — расширение языка C++17
+C:\Users\KROU4\YandexDisk\Коды ПК\СД\lab2-9\Main.cpp(38,3): warning C4984: "if constexpr" — расширение языка C++17
+C:\Users\KROU4\YandexDisk\Коды ПК\СД\lab2-9\Main.cpp(45,4): warning C4984: "if constexpr" — расширение языка C++17
+C:\Users\KROU4\YandexDisk\Коды ПК\СД\lab2-9\Main.cpp(54,9): warning C4984: "if constexpr" — расширение языка C++17
+C:\Users\KROU4\YandexDisk\Коды ПК\СД\lab2-9\Main.cpp(63,9): warning C4984: "if constexpr" — расширение языка C++17
+C:\Users\KROU4\YandexDisk\Коды ПК\СД\lab2-9\Main.cpp(72,9): warning C4984: "if constexpr" — расширение языка C++17
+C:\Users\KROU4\YandexDisk\Коды ПК\СД\lab2-9\Main.cpp(415,25): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\KROU4\YandexDisk\Коды ПК\СД\lab2-9\Main.cpp(416,23): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\KROU4\YandexDisk\Коды ПК\СД\lab2-9\Main.cpp(546,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\KROU4\YandexDisk\Коды ПК\СД\lab2-9\Main.cpp(575,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  lab2-9.vcxproj -> C:\Users\KROU4\YandexDisk\Коды ПК\СД\lab2-9\x64\Debug\lab2-9.exe

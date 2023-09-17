@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Игра на С++\main.cpp(154,26): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Игра на С++\main.cpp(163,17): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  Игра на С++.vcxproj -> C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Игра на С++\Debug\Игра на С++.exe

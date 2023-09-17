@@ -1,0 +1,13 @@
+﻿  console_renderer.cpp
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Растровые изображения в консоли\Lib\console_renderer.cpp(10,23): error C2511: void ConsoleRenderer::drawAxis(void): перегруженная функция-член не найдена в "ConsoleRenderer"
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Растровые изображения в консоли\Lib\console_renderer.h(5,7): message : см. объявление "ConsoleRenderer"
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Растровые изображения в консоли\Lib\console_renderer.cpp(67,23): error C2039: "resizeConsole": не является членом "ConsoleRenderer".
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Растровые изображения в консоли\Lib\console_renderer.h(5,7): message : см. объявление "ConsoleRenderer"
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Растровые изображения в консоли\Lib\console_renderer.cpp(78,23): error C2084: функция "void ConsoleRenderer::drawGraph(const Graph &)" уже имеет текст реализации
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Растровые изображения в консоли\Lib\console_renderer.cpp(28,23): message : см. предыдущее определение "drawGraph"
+  raster_graphics.cpp
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Растровые изображения в консоли\Lib\raster_graphics.cpp(22,21): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Растровые изображения в консоли\Lib\raster_graphics.cpp(22,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "renderer"
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Растровые изображения в консоли\Lib\raster_graphics.cpp(25,5): error C2065: renderer: необъявленный идентификатор
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Растровые изображения в консоли\Lib\raster_graphics.cpp(26,5): error C2065: renderer: необъявленный идентификатор
+  Создание кода...

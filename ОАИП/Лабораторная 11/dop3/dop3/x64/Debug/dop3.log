@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 11\dop3\dop3\Source.cpp(7,1): warning C4005: max: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(193,1): message : см. предыдущее определение "max"
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 11\dop3\dop3\Source.cpp(35,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 11\dop3\dop3\Source.cpp(40,19): warning C4101: letter: неиспользованная локальная переменная
+  dop3.vcxproj -> C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 11\dop3\x64\Debug\dop3.exe

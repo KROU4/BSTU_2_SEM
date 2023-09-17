@@ -1,0 +1,2 @@
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Реферат 05.04.2023\referat\x64\Debug\referat.exe
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Передача структур через SQLite\referat\x64\Debug\referat.exe

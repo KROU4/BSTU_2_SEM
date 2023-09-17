@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dop3", "dop3.vcxproj", "{844E1DC6-7B13-4A1D-93B6-F649CFBF4F39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{844E1DC6-7B13-4A1D-93B6-F649CFBF4F39}.Debug|x64.ActiveCfg = Debug|x64
+		{844E1DC6-7B13-4A1D-93B6-F649CFBF4F39}.Debug|x64.Build.0 = Debug|x64
+		{844E1DC6-7B13-4A1D-93B6-F649CFBF4F39}.Debug|x86.ActiveCfg = Debug|Win32
+		{844E1DC6-7B13-4A1D-93B6-F649CFBF4F39}.Debug|x86.Build.0 = Debug|Win32
+		{844E1DC6-7B13-4A1D-93B6-F649CFBF4F39}.Release|x64.ActiveCfg = Release|x64
+		{844E1DC6-7B13-4A1D-93B6-F649CFBF4F39}.Release|x64.Build.0 = Release|x64
+		{844E1DC6-7B13-4A1D-93B6-F649CFBF4F39}.Release|x86.ActiveCfg = Release|Win32
+		{844E1DC6-7B13-4A1D-93B6-F649CFBF4F39}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {256E6042-8A0B-45A7-BE8E-BDDC40CFF38E}
+	EndGlobalSection
+EndGlobal

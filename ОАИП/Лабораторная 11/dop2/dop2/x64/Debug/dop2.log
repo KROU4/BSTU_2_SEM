@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 11\dop2\dop2\Source.cpp(6,1): warning C4005: max: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(193,1): message : см. предыдущее определение "max"
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 11\dop2\dop2\Source.cpp(27,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 11\dop2\dop2\Source.cpp(28,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 11\dop2\dop2\Source.cpp(33,19): warning C4101: letter: неиспользованная локальная переменная
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 11\dop2\dop2\Source.cpp(33,16): warning C4101: s: неиспользованная локальная переменная
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 11\dop2\dop2\Source.cpp(123): warning C4715: insertElem: значение возвращается не при всех путях выполнения
+  dop2.vcxproj -> C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 11\dop2\x64\Debug\dop2.exe

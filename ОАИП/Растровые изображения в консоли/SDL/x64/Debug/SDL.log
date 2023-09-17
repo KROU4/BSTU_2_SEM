@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Растровые изображения в консоли\SDL\main.cpp(101,39): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Растровые изображения в консоли\SDL\main.cpp(101,36): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  sdl_renderer.cpp
+  Создание кода...
+Project.lib(graph.obj) : warning LNK4099: "" PDB не найден с "Project.lib(graph.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+  SDL.vcxproj -> C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Растровые изображения в консоли\SDL\x64\Debug\SDL.exe

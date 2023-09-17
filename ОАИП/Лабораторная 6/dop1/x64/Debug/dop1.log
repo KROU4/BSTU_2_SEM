@@ -1,0 +1,32 @@
+﻿  FileName.cpp
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 6\dop1\FileName.cpp(237,14): error C2511: void Object::PrintList(void (__cdecl *)(void)): перегруженная функция-член не найдена в "Object"
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 6\dop1\FileName.cpp(29,8): message : см. объявление "Object"
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 6\dop1\FileName.cpp(239,18): error C2597: недопустимая ссылка на нестатический член "Object::Head"
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 6\dop1\FileName.cpp(31,14): message : см. объявление "Object::Head"
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 6\dop1\FileName.cpp(239,16): error C2440: инициализация: невозможно преобразовать "unknown" в "Element *"
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 6\dop1\FileName.cpp(239,16): message : Не существует контекста, в котором такое преобразование возможно
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 6\dop1\FileName.cpp(242,18): error C2197: void (__cdecl *)(void): слишком много аргументов для вызова
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 6\dop1\FileName.cpp(248,14): error C2511: void Object::PrintList(void (__cdecl *)(void),Element *): перегруженная функция-член не найдена в "Object"
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 6\dop1\FileName.cpp(29,8): message : см. объявление "Object"
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 6\dop1\FileName.cpp(250,14): error C2197: void (__cdecl *)(void): слишком много аргументов для вызова
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 6\dop1\FileName.cpp(267,28): error C2860: Невозможно использовать "void" в качестве параметра функции, кроме "(void)"
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 6\dop1\FileName.cpp(267,14): error C2511: void Object::BubbleSort(int (__cdecl *)(void)): перегруженная функция-член не найдена в "Object"
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 6\dop1\FileName.cpp(29,8): message : см. объявление "Object"
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 6\dop1\FileName.cpp(269,13): error C2352: "Object::CountList": для вызова нестатической функции-члена требуется объект
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 6\dop1\FileName.cpp(254,13): message : см. объявление "Object::CountList"
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 6\dop1\FileName.cpp(275,23): error C2597: недопустимая ссылка на нестатический член "Object::Head"
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 6\dop1\FileName.cpp(31,14): message : см. объявление "Object::Head"
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 6\dop1\FileName.cpp(275,21): error C2440: инициализация: невозможно преобразовать "unknown" в "Element *"
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 6\dop1\FileName.cpp(275,21): message : Не существует контекста, в котором такое преобразование возможно
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 6\dop1\FileName.cpp(279): error C2197: int (__cdecl *)(void): слишком много аргументов для вызова
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 6\dop1\FileName.cpp(293,80): error C2860: Невозможно использовать "void" в качестве параметра функции, кроме "(void)"
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 6\dop1\FileName.cpp(302,47): error C2197: int (__cdecl *)(void): слишком много аргументов для вызова
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 6\dop1\FileName.cpp(307,48): error C2197: int (__cdecl *)(void): слишком много аргументов для вызова
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 6\dop1\FileName.cpp(320): error C2197: int (__cdecl *)(void): слишком много аргументов для вызова
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 6\dop1\FileName.cpp(332,27): error C2860: Невозможно использовать "void" в качестве параметра функции, кроме "(void)"
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 6\dop1\FileName.cpp(332,14): error C2511: void Object::QuickSort(int (__cdecl *)(void)): перегруженная функция-член не найдена в "Object"
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 6\dop1\FileName.cpp(29,8): message : см. объявление "Object"
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 6\dop1\FileName.cpp(334,24): error C2597: недопустимая ссылка на нестатический член "Object::Head"
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 6\dop1\FileName.cpp(31,14): message : см. объявление "Object::Head"
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 6\dop1\FileName.cpp(334,30): error C2352: "Object::GetLast": для вызова нестатической функции-члена требуется объект
+C:\Users\KROU4\YandexDisk\Коды ПК\ОАИП\Лабораторная 6\dop1\FileName.cpp(143,18): message : см. объявление "Object::GetLast"
